@@ -1,0 +1,14 @@
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/bin/Debug/net10.0/TP_
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/bin/Debug/net10.0/TP_.deps.json
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/bin/Debug/net10.0/TP_.runtimeconfig.json
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/bin/Debug/net10.0/TP_.dll
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/bin/Debug/net10.0/TP_.pdb
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.AssemblyInfoInputs.cache
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.AssemblyInfo.cs
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.csproj.CoreCompileInputs.cache
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.dll
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/refint/TP_.dll
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.pdb
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/TP_.genruntimeconfig.cache
+/Users/inescostasilva/Faculdade/2º ano/1ºsemestre/POO/TP_/obj/Debug/net10.0/ref/TP_.dll
